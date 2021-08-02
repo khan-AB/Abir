@@ -1,0 +1,1211 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+
+.khan
+{
+    background-color: #3B719F;
+}
+body
+{
+    font-family: poppins, sans-serif;
+}
+.another
+{
+    background-image: url(image/cyber-security-2296269_1280.jpg);
+    background-size: cover;
+    height: 500px;
+    margin-top: 0
+}
+.another
+{
+    text-align: center;
+}
+
+.another h1
+{
+    font-size: 50px;
+    font-weight: 800;
+    padding-top: 100px;
+    color: #fff;
+    padding-bottom: 10px;
+    
+}
+
+.another h4
+{
+    color: #fff;
+    font-weight: bold;
+    padding-bottom: 20px;
+}
+.but
+{
+    margin-top: 20px;
+    padding: 10px 15px;
+    font-weight: bold;
+    background-color: #007BFF;
+    color: #fff;
+    border: 0;
+    border-radius: 10px;
+    transition: .3s ease;
+}
+
+.but:hover
+{
+    background: #fff;
+    color: #3B719F;
+    transition: .3s ease;
+}
+
+.txt h2
+{
+    font-weight: 800;
+    color: #6874DD;
+}
+.txt p
+{
+    color: #6874DD;
+}
+.ah
+{
+    color: #3B719F;
+    font-weight: bold;
+    font-size: 20px;
+    padding-top: 30px !important;
+}
+.ah h1
+{
+    font-weight: bold;
+    font-size: 80px;
+}
+.ah .kj
+{
+    color: #fff;
+    background-color: #3B719F;
+    width: 40%;
+    margin: 0 auto;
+    padding: 3px 5px;
+    border-radius: 7px;
+    font-weight: 500;
+}
+.ah .jk
+{
+    font-weight: 400;
+    opacity: .7;
+}
+.ah
+{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    
+}
+
+.ah .butt
+{
+    color: #fff;
+    background-color: #3B719F;
+    width: 60%;
+    margin: 0 auto;
+    padding: 10px 10px;
+    border-radius: 7px;
+    margin-bottom: -40px;
+    transition: .3s ease;
+    
+}
+
+.ah .butt:hover
+{
+    cursor: pointer;
+    color: #3B719F;
+    background: #fff;
+    transition: .3s ease;
+    border: 1px dotted #3B75AE;
+    
+}
+
+
+.ah .butu
+{
+    color: #fff;
+    background-color: red;
+    width: 60%;
+    margin: 0 auto;
+    padding: 10px 10px;
+    border-radius: 7px;
+    margin-bottom: -40px;
+    transition: .3s ease;
+    
+}
+
+.ah .butu:hover
+{
+    cursor: pointer;
+    color: red;
+    background: #fff;
+    transition: .3s ease;
+    border: 1px dotted #3B75AE;
+    
+}
+
+.ah .buti
+{
+    color: #fff;
+    background-color: red;
+    width: 60%;
+    margin: 0 auto;
+    padding: 10px 10px;
+    border-radius: 20px;
+    margin-top: -55px;
+   
+    
+}
+.lekha h2
+{
+    color: #3B719F;
+    font-weight: bold
+}
+.lekha p
+{
+    color: #3B719F;
+}
+
+.heading
+{
+    background: #8DDDA7;
+    font-weight: bold;
+}
+
+.heading h1
+{
+    background: #8DDDA7;
+    font-weight: bold;
+}
+
+.ayat
+{
+    background: #81DA9E;
+}
+
+.jannat
+{
+    text-align: center;
+    color: #3B719F;
+    margin-top: 80px;
+    transition: .3s ease;
+    
+}
+
+.jannat h4
+{
+    font-weight: bold;
+}
+
+.jannat .bbt
+{
+    margin: 0 auto;
+    width: 40%;
+    padding: 8px 12px;
+    border: 0;
+    color: #3B719F;
+    border: 1px solid #3B719F;
+    background: transparent;
+    border-radius: 8px;
+    transition: .3s ease;
+}
+
+.jannat .bbt:hover
+{
+    background: #3B719F;
+    color: #fff;
+    transition: .3s ease;
+    
+}
+
+.jannat:hover
+{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    background: #8DDDA7;
+    transition: .3s ease;
+    cursor: pointer;
+    color: #fff;
+    
+    
+}
+
+.nxt
+{
+    background: #FE746C;
+    padding: 20px;
+}
+
+.bcb
+{
+    background: #FF655D;
+}
+
+.ic .fa
+{
+    color: yellow;
+    font-size: 22px;
+}
+
+.jinat
+{
+    padding: 50px 50px 30px 50px;
+    text-align: center;
+    transition: .3s ease;
+    color: #3B719F;
+}
+
+.jinat h3
+{
+    font-weight: bold;
+}
+
+.jinat:hover
+{
+    background: #FE746C;
+    color: #fff;
+    transition: .3s ease;
+    cursor: pointer;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    
+}
+
+
+.middle
+{
+    text-align: center;
+    font-weight: bold;
+    padding: 40px 0px;
+    color: #3B719F;
+}
+.middle h1
+{
+    font-weight: bold;
+    
+}
+
+.circle
+{
+    border-image: url(image/background-1747792_1280.jpg);
+    background-size: cover;
+}
+
+.abir
+{
+    color: #3B719F;
+    transition: .3s ease;
+}
+
+.abir:hover
+{
+    
+    background: rgba(0, 0, 0, 0.05);
+    transition: .3s ease;
+}
+
+.rt
+{
+    color: red;
+    transition: .3s ease;
+    font-weight: bold;
+}
+
+.rt:hover
+{
+    color: #3B719F;
+    transition: .3s ease;
+}
+
+.tut
+{
+    background: red;
+    text-align: center;
+    font-weight: bold;
+    transition: .5s ease;
+    width: 100%;
+    color: #fff;
+    border: 0;
+}
+
+.tut:hover{
+    transition: .3s ease;
+    background: #3B719F;
+}
+
+.ali
+{
+    width: 30%;
+    padding: 10px 0;
+    background: blue;
+    color: #fff;
+    font-weight: bold;
+    transition: .3s ease;
+    border: 0;
+    border-radius: 10px;
+}
+
+.ali:hover
+{
+    transition: .3s ease;
+    background: green;
+}
+
+.last
+{
+    background: #3B719F;
+}
+
+
+.ico .fa
+{
+    margin: 10px;
+    font-size: 22px;
+    border: 1px solid #fff;
+    padding: 10px 15px;
+    border-radius: 50%;
+    transition: .3s ease;
+}
+
+.ico .fa-twitter
+{
+    padding: 10px 11px;
+}
+
+.ico .fa-google-plus
+{
+    padding: 10px 8px
+}
+
+.ico .fa-linkedin
+{
+    padding: 11px 13px
+}
+
+.ico .fa-instagram
+{
+    padding: 10px 12px
+}
+
+.ico .fa:hover
+{
+    background: yellow;
+    color: #000;
+    cursor: pointer;
+    transition: .3s ease;
+}
+
+
+.her
+{
+    padding: 15px 20px;
+    background: #81DAA0;
+    color: #fff;
+    transition: .3s ease;
+    font-weight: bold;
+    letter-spacing: 1px;
+    border: 0;
+    border-radius: 0 10px 10px 0
+}
+.her:hover
+{
+    background: #6F83E9;
+    color: #fff;
+    transition: .3s ease;
+    
+}
+.ber
+{
+    height: 55px;
+}
+
+.lech h4
+{
+    font-weight: bold;
+}
+
+.lech p
+{
+    transition: .3s ease;
+}
+
+.lech p:hover
+{
+    padding-left: 10px;
+    transition: .3s ease;
+    opacity: .8;
+}
+
+.end
+{
+    background: #6F83E9;
+    text-align: center;
+    padding: 20px 0;
+    color: #fff;
+}
+
+.bass
+{
+    color: #81DAA0;
+    transition: .3s;
+}
+
+.bass:hover
+{
+    color: #fff;
+    transition: .3s;
+}
+/*Index.html end*/
+
+/*Index.html start*/
+.headline
+{
+    background: #3B719F;
+    opacity: .9;
+}
+.far .fa
+{
+    padding: 10px;
+    border-radius: 50%;
+    color: greenyellow;
+    transition: .3s;
+}
+
+.far:hover .fa
+{
+    transition: .3s;
+    color: #fff;
+    
+}
+
+.hia
+{
+    font-weight: bold;
+    letter-spacing: 2px;
+}
+.hiya
+{
+    color: #4F7FA9;
+    font-size: 20px;
+    letter-spacing: 1px;
+}
+
+
+.hiya h1
+{
+    font-weight: bold;
+    letter-spacing: 3px;
+}
+
+.tuff .fa
+{
+    padding: 10px;
+    border-radius: 50%;
+    color: green;
+    transition: .3s;
+}
+
+.tuff:hover .fa
+{
+    transition: .3s;
+    color: #3B719F;
+    
+}
+.tuff
+{
+    font-size: 18px;
+    color: #3B719F;
+    border-radius: 5px;
+    transition: .3s;
+    padding: 10px 0;
+    
+    
+}
+
+.tuff h3
+{
+    font-weight: bold;
+}
+
+.tuff:hover
+{
+    background: rgba(0, 0, 0, 0.1);
+    transition: .3s;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    cursor: pointer;
+}
+
+.abul
+{
+   text-align: center;
+    transition: .3s;
+    border: 0;
+}
+.cool
+{
+    background: #81DA9E;
+    margin-bottom: 0;
+    padding-bottom: 0;
+    letter-spacing: 1px;
+    font-weight: bold;
+    color: #fff;
+    transition: .3s;
+}
+
+.cool img
+{
+    margin-top: -80px;
+}
+.cool h2
+{
+    margin-top: 20px
+}
+.cool h4
+{
+    font-weight: bold;
+}
+
+.cool p
+{
+    margin-top: 30px;
+    width: 100%;
+    background: #77C690;
+    padding: 10px;
+    margin-bottom: -20px;
+}
+
+.abul:hover .cool
+{
+    transition: .3s;
+    background: #fff;
+    color: #000;
+    
+   
+}
+
+
+.dark
+{
+    margin-top: 20px;
+    transition: .3s;
+}
+.abul:hover .dark
+{
+    background: #81DA9E;
+    color: #fff;
+    
+    
+    
+}
+
+.abul:hover
+{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    transition: .3s;
+}
+
+.dark .hey
+{
+    width: 50%;
+    padding: 10px;
+    border: 0;
+    background: #81DA9E;
+    border-radius: 10px;
+    color: #fff;
+    font-weight: bold;
+    margin-bottom: -50px;
+    transition: .3s;
+}
+
+.dark:hover .hey
+{
+    background: #3B719F;
+    transition: .3s;
+}
+
+
+/*nxt card*/
+
+
+.coolu
+{
+    background: #FF665E;
+    margin-bottom: 0;
+    padding-bottom: 0;
+    letter-spacing: 1px;
+    font-weight: bold;
+    color: #fff;
+    transition: .3s;
+}
+
+.coolu img
+{
+    margin-top: -80px;
+}
+.coolu h2
+{
+    margin-top: 20px
+}
+.coolu h4
+{
+    font-weight: bold;
+}
+
+.coolu p
+{
+    margin-top: 30px;
+    width: 100%;
+    background: #E85D56;
+    padding: 10px;
+    margin-bottom: -20px;
+}
+
+.abul:hover .coolu
+{
+    transition: .3s;
+    background: #fff;
+    color: #000;
+    
+   
+}
+
+
+.darku
+{
+    margin-top: 20px;
+    transition: .3s;
+}
+.abul:hover .darku
+{
+    background: #FF665E;
+    color: #fff;
+    
+    
+    
+}
+
+
+
+.darku .hey
+{
+    width: 50%;
+    padding: 10px;
+    border: 0;
+    background: #FF665E;
+    border-radius: 10px;
+    color: #fff;
+    font-weight: bold;
+    margin-bottom: -50px;
+    transition: .3s;
+}
+
+.darku:hover .hey
+{
+    background: #3B719F;
+    transition: .3s;
+}
+
+
+
+
+/*nxt card*/
+
+
+
+.cooli
+{
+    background: #3598DB;
+    margin-bottom: 0;
+    padding-bottom: 0;
+    letter-spacing: 1px;
+    font-weight: bold;
+    color: #fff;
+    transition: .3s;
+}
+
+.cooli img
+{
+    margin-top: -80px;
+}
+.cooli h2
+{
+    margin-top: 20px
+}
+.cooli h4
+{
+    font-weight: bold;
+}
+
+.cooli p
+{
+    margin-top: 30px;
+    width: 100%;
+    background: #318BC8;
+    padding: 10px;
+    margin-bottom: -20px;
+}
+
+.abul:hover .cooli
+{
+    transition: .3s;
+    background: #fff;
+    color: #000;
+    
+   
+}
+
+.darki
+{
+    margin-top: 20px;
+    transition: .3s;
+}
+.abul:hover .darki
+{
+    background: #3598DB;
+    color: #fff;
+   
+}
+
+
+
+.darki .hey
+{
+    width: 50%;
+    padding: 10px;
+    border: 0;
+    background: #3598DB;
+    border-radius: 10px;
+    color: #fff;
+    font-weight: bold;
+    margin-bottom: -50px;
+    transition: .3s;
+}
+
+.darki:hover .hey
+{
+    background: #81DA9E;
+    transition: .3s;
+}
+
+.bulu
+{
+    color: #4F7FA9;
+    font-size: 17px
+}
+.bulu h2
+{
+    font-weight: bold
+}
+
+.nur
+{
+    width: 30%;
+    padding: 10px;
+    border: 0;
+    background: #4F7FA9;
+    color: #fff;
+    font-weight: bold;
+    letter-spacing: 1px;
+    border-radius: 10px;
+    transition: .3s;
+}
+
+.nur:hover
+{
+    background: #81DA9E;
+    transition: .3s;
+}
+
+.moor
+{
+    font-weight: bold;
+}
+.meh
+{
+    font-weight: bold;
+}
+.ru
+{
+    border: 0;
+    padding: 10px;
+    
+}
+.ru:hover
+{
+    border-bottom: 1px dotted black !important;
+}
+
+.tui
+{
+    font-weight: bold;
+}
+
+.khu .fa
+{
+    font-size: 45px;
+    font-weight: bold;
+    padding: 10px;
+    color: blue;
+    border: 1px solid grey;
+    border-radius: 50%;
+    transition: .3s;
+    margin: 20px;
+}
+
+.khu:hover .fa
+{
+    color: palegreen;
+    transition: .3s;
+}
+.khu .fa-thumb-tack
+{
+    padding: 15px 23px;
+}
+
+.khu .fa-phone
+{
+    padding: 15px 20px;
+}
+.khu .fa-envelope-o
+{
+    padding: 15px 15px;
+}
+
+.khe
+{
+    width: 25%;
+    text-align: center;
+    background: blue;
+    color: #fff;
+    font-weight: bold;
+    letter-spacing: 1px;
+    border: 0;
+    border-radius: 10px;
+    padding: 12px;
+    transition: .3s;
+}
+.khe:hover
+{
+    background-color: #000;
+    transition: .3s;
+}
+
+/*About us page style start*/
+
+.gtr
+{
+    background-color: #F6F6F6;
+    padding: 30px;
+    border-left: 5px solid blue
+}
+
+.hyhy
+{
+    font-weight: bold;
+}
+
+.poi
+{
+    background-image: url(img/video-background.jpg);
+    background-size: cover;
+    width: 100%;
+    height: 400px;
+}
+
+.jui
+{
+    text-align: center;
+    margin-top: 100px;
+    transition: .3s all ease;
+}
+
+.jui:hover
+{
+    
+    transition: .3s all ease;
+    transform: scale(1.2);
+}
+
+.zin
+{
+    font-weight: 800;
+    letter-spacing: 1px;
+}
+
+.ec .fa
+{
+    padding: 10px 15px;
+    background-color: #F0F2FD;
+    margin-right: 5px;
+    color: #000;
+    border-radius: 5px;
+    transition: .3s;
+    
+}
+.ec .fa-facebook
+{
+    padding: 10px 15px;
+    color: blue;
+}
+
+.ec .fa:hover 
+{
+    background: #6773DD;
+    color: #fff;
+    cursor: pointer;
+    transition: .3s;
+}
+.aass
+{
+    font-weight: bold;
+}
+
+.sisco
+{
+    background-image: url(img/hostcluster-member-bg-1.jpg);
+    background-size: cover;
+}
+
+.counter
+{
+    background-image: url(img/hostcluster_slider.jpg);
+    background-size: cover;
+}
+.hu
+{
+    font-weight: bold;
+}
+
+.aiy
+{
+    border: 2px solid #fff;
+}
+
+.llll
+{
+    font-weight: bold;
+}
+.hhg
+{
+    
+    margin: 0;
+}
+
+.hhg .fa
+{
+    font-size: 18px;
+    padding: 10px;
+    transition: .3s;
+}
+
+.hhg:hover .fa
+{
+    color: lawngreen;
+    transition: .3s;
+}
+
+.hihi
+{
+    background-color: #7681E0;
+}
+
+
+.tom
+{
+    border: 0;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: red;
+    color: #fff;
+    font-size: 18px;
+    font-weight: 800;
+    width: 100%;
+    transition: .4s ease all;
+}
+.tom:hover
+{
+    background-color: lawngreen;
+    transition: .4s ease all;
+}
+
+.mot
+{
+    border: 0;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: lawngreen;
+    color: #fff;
+    font-size: 18px;
+    font-weight: 800;
+    width: 100%;
+    transition: .4s ease all;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.mot:hover
+{
+    background-color: red;
+    transition: .4s ease all;
+    color: #fff;
+}
+
+.jenny
+{
+    border-radius: 10px;
+    transition: .3s all ease;
+    padding-bottom: 10px;
+}
+
+.jenny:hover
+{
+    background-color: blue;
+    transition: .3s all ease;
+    color: #fff;
+    cursor: pointer;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.whmcs
+{
+    background-color: #FF655D;
+}
+
+.rulle
+{
+    background-color: #6773DD;
+}
+
+.mir
+{
+    background-color: #6773DD;
+}
+
+.cog .fa
+{
+    padding: 10px;
+}
+
+.cog
+{
+    color: #888FA7;
+    padding-top: 10px;
+    border: 0;
+    background-color: #fff
+}
+.hul
+{
+    font-weight: bold;
+    color: #005588;
+}
+.su
+{
+    color: #005588;
+}
+
+.us
+{
+    font-size: 23px;
+    color: #888FA7;
+    font-weight: 400;
+}
+.koila
+{
+    color: #888FA7;
+}
+
+.mnb
+{
+    width: 43%;
+    margin-left: 0;
+    margin-bottom: -14px;
+}
+.bnm
+{
+    width: 43%;
+    margin-right: 0;
+    margin-top: -20px;
+}
+.popo
+{
+    
+    background-color: #6773DD;
+    color: #fff;
+    padding: 0;
+    border-radius: 5px;
+    
+}
+
+.popo .fa
+{
+    border-right: 1px solid #000;
+    padding: 8px
+}
+
+.poko
+{
+    
+    background-color: #FF655D;
+    color: #fff;
+    padding: 0;
+    border-radius: 5px;
+    
+}
+
+.poko .fa
+{
+    border-right: 1px solid #000;
+    padding: 8px
+}
+
+.pobo
+{
+    
+    background-color: #1C92C7;
+    color: #fff;
+    padding: 0;
+    border-radius: 5px;
+    
+}
+
+.pobo .fa
+{
+    border-right: 1px solid #000;
+    padding: 8px
+}
+
+.nnn
+{
+    width: 35%;
+    margin-left: 0;
+    margin-bottom: -14px;
+}
+.mmm
+{
+    width: 35%;
+    margin-right: 0;
+    margin-top: -20px;
+}
+
+.met
+{
+    border: 0;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: lawngreen;
+    color: #fff;
+    font-size: 18px;
+    font-weight: 800;
+    width: 30%;
+    margin: 0 auto;
+    transition: .4s ease all;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.5), 0 6px 20px 0 rgba(0, 0, 0, 0.50);
+}
+.met:hover
+{
+    background-color: red;
+    transition: .4s ease all;
+    color: #fff;
+}
+
+
+
+
+
+
